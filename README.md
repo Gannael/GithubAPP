@@ -1,1 +1,1 @@
-Desafiod e projeto aluno do curso. Com minhas modificações!!
+Desafio de projeto. Aluno do curso Dio. Com minhas modificações!!
